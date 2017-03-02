@@ -1,0 +1,11 @@
+use bitmap for index
+advantage: 
+1:save memory;
+2:fast under small amount of data;
+3:
+
+
+disadvantage:
+1:unavalible under big data;
+2:unfriendly to high frequency operations of insert\update\delete;
+3:
